@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / dynamically loaded files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.tox/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Temporary files, build artifacts
+dist/
+build/
+*.egg-info/
+htmlcov/
+.coverage
+
+# IDEs and OS files
+.DS_Store # macOS
+.idea/ # PyCharm/IntelliJ
+.vscode/ # VS Code
+
+# Environment variables and secrets
+*.env
+.env
+.secrets
